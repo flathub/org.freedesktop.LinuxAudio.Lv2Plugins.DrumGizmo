@@ -1,3 +1,5 @@
 {
+    "end-of-life": "The plugin has been renamed to org.freedesktop.LinuxAudio.Plugins.DrumGizmo",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.DrumGizmo",
     "skip-icons-check": true
 }
